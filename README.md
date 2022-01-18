@@ -1,3 +1,3 @@
-# Pytorch Models
+# Data science projects
 
-Showing my progression of learning Pytorch and ML models.
+Some projects ranging in difficulty to show some of my knowledge in the field of Computer Vision and statistics.
