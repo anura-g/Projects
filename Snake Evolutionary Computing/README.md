@@ -7,7 +7,7 @@ This involves a neural network (coded from scratch) and evolutionary algorithm t
 Please read my report if you are interested in knowing the full details. It is a very complicated project so I explain the motivation 
 from literature, and show visualisations of whats happening in the report.
 
-**Tech stack = [Python, DEAP, Matplotlib, Numpy]
+**Tech stack** = [Python, DEAP, Matplotlib, Numpy]
 
 # Motivation 
 
