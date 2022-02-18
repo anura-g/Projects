@@ -1,1 +1,1 @@
-**League of Legends Analysis
+League of Legends Analysis
