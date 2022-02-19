@@ -10,6 +10,6 @@ The datasets used are a mix of Kaggle, my own, and other websites. I like to col
 
 Each project has the tech stack stated, but I've summarised it here:
 
-**Tech stack** = [Python, Pandas, Numpy, Scikit-learn, Pandas, Matplotlib, Pytorch, Tensorflow, Statsmodels, DEAP]
+**Tech stack** = [Python, Numpy, Scikit-learn, Pandas, Matplotlib, Pytorch, Tensorflow, Statsmodels, DEAP]
 
 
