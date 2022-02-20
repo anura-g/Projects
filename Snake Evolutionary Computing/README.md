@@ -2,7 +2,7 @@
 
 A snake game coded from scratch with a neuroevolutionary agent that aims to maximise the snakes score.  
 
-This involves a neural network (coded from scratch) and evolutionary algorithm that uses my custom techniques to maximise the score.
+This involves a neural network (coded from scratch) and an evolutionary algorithm that uses my custom techniques to maximise the score.
 
 Please read my report if you are interested in knowing the full details. It is a very complicated project so I explain the motivation 
 from literature, and show visualisations of whats happening in the report.
